@@ -20,7 +20,7 @@ nums2 = [3,0,-6]
 
 **Explanation**  
 Choose subsequence `[2,5]` from `nums1` and `[3,-6]` from `nums2`.  
-Dot product = `2×3 + 5×(-6) = 6 - 30 = -24` ❌  
+Dot product = `2×3 + 5×(-6) = 6 - 30 = -24` 
 Better choice is `[2]` and `[3]` → `2×3 = 6`,  
 Best is `[2,1,-2,5]` and `[3,0,-6]` → `18`.
 
